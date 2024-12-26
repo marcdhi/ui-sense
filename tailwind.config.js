@@ -12,6 +12,7 @@ export default {
         poppins: ['Poppins', 'sans-serif'],                      // Poppins font
         quicksand: ['Quicksand', 'sans-serif'],                  // Quicksand font
         ubuntu: ['Ubuntu', 'sans-serif'],
+        dancing: ['"Dancing Script"', 'cursive'],
       },
     },
   },
